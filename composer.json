@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki SEO extension.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "seo"
@@ -28,8 +28,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-seo/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-seo"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-seo/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-seo"
   },
   "require": {
     "composer/installers": "~1.0",
